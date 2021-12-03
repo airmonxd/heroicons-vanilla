@@ -1,0 +1,1 @@
+document.querySelectorAll("icon").forEach(function(t){t.innerHTML='<object data="https://heroicons.surge.sh/'+t.getAttribute("type")+"/"+t.getAttribute("name")+'.svg" type="image/svg+xml"></object>'});
