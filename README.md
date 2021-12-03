@@ -9,7 +9,8 @@ Add To The Bottom Of The Body Section
 <script src="https://heroicons.surge.sh/index.js"></script>
 ```
 
-
+<br >
+<br >
 Example:
 ```
 <icon type="outline" name="archive"></icon>
